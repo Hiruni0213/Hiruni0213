@@ -30,8 +30,19 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,java,dart,html,css,flutter,mysql,mongodb,mssql,git,github,vscode,androidstudio&perline=7"/>
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,php,dart,html,css&perline=6"/>
+</p>
+
+**Frameworks & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,mysql,mongodb,mssql&perline=6"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=6"/>
 </p>
 
 ---
