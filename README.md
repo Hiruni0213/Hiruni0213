@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering;Full-Stack+Developer;Aspiring+AI+%26+QA+Enthusiast" alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/hiruninethmini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gahnethmini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Bentota%2C%20Sri%20Lanka-informational?style=for-the-badge"/>
@@ -53,7 +57,6 @@
 **Development Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=6"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
 ---
@@ -69,14 +72,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiruni0213&show_icons=true&theme=default&cache_seconds=86400" alt="Hiruni's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Hiruni0213" alt="Hiruni's streak stats" height="165"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
