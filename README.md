@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hiruni Nethmini</h1>
 
+<h3 align="center">Undergraduate Software Engineering | UI UX Designer | Aspring Full Stack Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineer;UI%2FUX+Designer;Aspiring+Full+Stack+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering;UI%2FUX+Designer;Aspiring+Full+Stack+Developer" alt="Typing SVG"/>
 </p>
 
 <p align="center">
