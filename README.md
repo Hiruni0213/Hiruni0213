@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiruni Nethmini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineer;Full-Stack+Developer;Aspiring+AI+%26+QA+Enthusiast" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering;Full-Stack+Developer;Aspiring+AI+%26+QA+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineer;UI%2FUX+Designer;Aspiring+Full+Stack+Developer" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -57,6 +53,7 @@
 **Development Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=6"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
 ---
