@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hiruni Nethmini</h1>
-<h3 align="center">Undergraduate Software Engineer | Full-Stack Developer | Aspiring AI & QA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineer;Full-Stack+Developer;Aspiring+AI+%26+QA+Enthusiast" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/hiruninethmini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
