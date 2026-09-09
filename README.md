@@ -30,17 +30,27 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,php,dart,html,css&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=java,js,php,dart&perline=6"/>
 </p>
 
-**Frameworks & Databases**
+**Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,mysql,mongodb,mssql&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter&perline=6"/>
 </p>
 
-**Tools**
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java&perline=6"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql&perline=6"/>
+</p>
+
+**Development Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=6"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
@@ -76,4 +86,4 @@
   <a href="https://github.com/Hiruni0213"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>💡 Thanks for stopping by — always open to internship opportunities and collaborations!</i></p>
+<p align="center"><i>Thank you for visiting my profile! 🙌</i></p>
