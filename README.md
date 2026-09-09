@@ -43,6 +43,7 @@
 **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=6"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
 ---
@@ -61,7 +62,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiruni0213&show_icons=true&theme=default" alt="Hiruni's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiruni0213&show_icons=true&theme=default&cache_seconds=86400" alt="Hiruni's GitHub stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=Hiruni0213" alt="Hiruni's streak stats" height="165"/>
 </p>
 
@@ -70,7 +71,9 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/hiruninethmini">LinkedIn</a> •
-  <a href="mailto:gahnethmini@gmail.com">Email</a> •
-  <a href="https://github.com/Hiruni0213">GitHub</a>
+  <a href="https://linkedin.com/in/hiruninethmini"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gahnethmini@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Hiruni0213"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<p align="center"><i>💡 Thanks for stopping by — always open to internship opportunities and collaborations!</i></p>
